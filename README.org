@@ -1,10 +1,7 @@
 * vellum-csv
 
-
-
-|---------+-------------------------------------------|
-| source  | git:https://github.com/sirherrbatka/vellum-csv.git   |
-| commit  | 8f9bb60  |
-| systems | vellum-csv |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/sirherrbatka/vellum-csv.git |
+| commit  | 8f9bb60                                            |
+| systems | vellum-csv                                         |
+|---------+----------------------------------------------------|
