@@ -2,6 +2,6 @@
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/sirherrbatka/vellum-csv.git |
-| commit  | 590b7bf                                            |
+| commit  | 765aa89                                            |
 | systems | vellum-csv                                         |
 |---------+----------------------------------------------------|
